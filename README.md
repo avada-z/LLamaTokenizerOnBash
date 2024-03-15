@@ -1,7 +1,7 @@
-Very, VERY badly coded llama tokenizer using only Bash and some tools (bc, awk, sed, tr, od, etc..)
-Since I have nothing to do in my free time, I coded this, using ```https://github.com/belladoreai/llama-tokenizer-js``` as inspiration.
+Very, VERY badly coded llama tokenizer using only Bash and some tools (bc, awk, sed, tr, od, etc..)<br>
+Since I have nothing to do in my free time, I coded this, using ```https://github.com/belladoreai/llama-tokenizer-js``` as inspiration.<br>
 <br><br>
-To use this, first you need to install all the necessary tools that are used (you'll figure them out looking at errors)
+To use this, first you need to install all the necessary tools that are used (you'll figure them out looking at errors)<br>
 Just pass your input text as an argument to this script, example:<br>
 ```./tokenizer.sh " grabbed"```<br><br>
 Output:<br>
